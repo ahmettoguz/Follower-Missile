@@ -41,7 +41,8 @@ This project is a desktop application which is written by c language by the help
 * Arrow follows target automatically. By preference it is possible to switch also manuel mode and manage arrow.
 * Speed of the arrow can change.
 * It is possible to change target path to linear, circular and orbital.
-* Arrow position can be selected by user or it is also possible to assign randomly.
+* Arrow position can be selected by user.
+* Target position can be selected randomly.
 
 <br/>
 
